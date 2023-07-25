@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirmeraClase.Android", "PirmeraClase\PirmeraClase.Android\PirmeraClase.Android.csproj", "{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirmeraClase", "PirmeraClase\PirmeraClase\PirmeraClase.csproj", "{FD56CD61-19D5-4A90-A21D-978F03C5D55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBADCF5-CCED-4B3E-B6D2-67CDC28B4B6F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD56CD61-19D5-4A90-A21D-978F03C5D55B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2968D83C-4146-49F2-A219-730AEA5AB702}
+	EndGlobalSection
+EndGlobal
